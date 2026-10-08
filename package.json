@@ -14,10 +14,7 @@
   },
   "homepage": "https://github.com/walinejs/netlify-starter#readme",
   "dependencies": {
-    "@waline/vercel": "^1.43.4",
+    "@waline/vercel": "^1.31.9",
     "serverless-http": "^4.0.0"
-  },
-  "overrides": {
-    "better-sqlite3": "npm:noop-package@1.0.0"
   }
 }
